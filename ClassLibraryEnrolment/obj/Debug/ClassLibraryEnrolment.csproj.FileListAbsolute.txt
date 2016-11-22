@@ -1,0 +1,10 @@
+C:\Users\14099417\Desktop\ass5kiko\Ass5\ClassLibraryEnrolment\bin\Debug\ClassLibraryEnrolment.dll
+C:\Users\14099417\Desktop\ass5kiko\Ass5\ClassLibraryEnrolment\bin\Debug\ClassLibraryEnrolment.pdb
+C:\Users\14099417\Desktop\ass5kiko\Ass5\ClassLibraryEnrolment\obj\Debug\ClassLibraryEnrolment.dll
+C:\Users\14099417\Desktop\ass5kiko\Ass5\ClassLibraryEnrolment\obj\Debug\ClassLibraryEnrolment.pdb
+C:\Users\14099417\Desktop\ass5kiko\Ass5\ClassLibraryEnrolment\obj\Debug\ClassLibraryEnrolment.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Ass5\ClassLibraryEnrolment\bin\Debug\ClassLibraryEnrolment.dll
+\\Mac\Home\Desktop\Ass5\ClassLibraryEnrolment\bin\Debug\ClassLibraryEnrolment.pdb
+\\Mac\Home\Desktop\Ass5\ClassLibraryEnrolment\obj\Debug\ClassLibraryEnrolment.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Ass5\ClassLibraryEnrolment\obj\Debug\ClassLibraryEnrolment.dll
+\\Mac\Home\Desktop\Ass5\ClassLibraryEnrolment\obj\Debug\ClassLibraryEnrolment.pdb

@@ -1,0 +1,9 @@
+C:\Users\14099417\Desktop\ass5kiko\Ass5\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\14099417\Desktop\ass5kiko\Ass5\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\14099417\Desktop\ass5kiko\Ass5\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\14099417\Desktop\ass5kiko\Ass5\UnitTestProject1\bin\Debug\Ass5.exe
+C:\Users\14099417\Desktop\ass5kiko\Ass5\UnitTestProject1\bin\Debug\ClassLibraryEnrolment.dll
+C:\Users\14099417\Desktop\ass5kiko\Ass5\UnitTestProject1\bin\Debug\Ass5.pdb
+C:\Users\14099417\Desktop\ass5kiko\Ass5\UnitTestProject1\bin\Debug\ClassLibraryEnrolment.pdb
+C:\Users\14099417\Desktop\ass5kiko\Ass5\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\14099417\Desktop\ass5kiko\Ass5\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

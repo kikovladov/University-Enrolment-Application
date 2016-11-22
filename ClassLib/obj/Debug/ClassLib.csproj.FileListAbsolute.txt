@@ -1,0 +1,6 @@
+C:\Users\KIKO\Desktop\ass5kiko\Ass5\ClassLib\obj\Debug\ClassLib.csprojResolveAssemblyReference.cache
+C:\Users\14099417\Desktop\ass5kiko\Ass5\ClassLib\bin\Debug\ClassLib.dll
+C:\Users\14099417\Desktop\ass5kiko\Ass5\ClassLib\bin\Debug\ClassLib.pdb
+C:\Users\14099417\Desktop\ass5kiko\Ass5\ClassLib\obj\Debug\ClassLib.csprojResolveAssemblyReference.cache
+C:\Users\14099417\Desktop\ass5kiko\Ass5\ClassLib\obj\Debug\ClassLib.dll
+C:\Users\14099417\Desktop\ass5kiko\Ass5\ClassLib\obj\Debug\ClassLib.pdb
